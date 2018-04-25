@@ -1,0 +1,26 @@
+{
+  "name": "friendFinder",
+  "version": "1.0.0",
+  "description": "Friend Finder : Based on personal survey, the app will show you the closest compatible match",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpras55/friendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpras55/friendFinder/issues"
+  },
+  "homepage": "https://github.com/mpras55/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
